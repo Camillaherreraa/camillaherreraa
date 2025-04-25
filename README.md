@@ -6,7 +6,8 @@
 
 <div>
   <a href="https://beacons.ai/camillaherreraa"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillaherreraa&layout=compact&langs_count=16&theme=dracula"/>
+  ### 📊 Linguagens mais usadas
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=radical)
 </div>
 
 <div style="display: inline_block"><br>
