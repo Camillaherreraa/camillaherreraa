@@ -8,7 +8,7 @@
   <a href="https://beacons.ai/camillaherreraa"></a>
   ### 📚 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillaherrerraa&layout=compact&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillaherreraa&layout=compact&langs_count=6&theme=radical)
 
 </div>
 
