@@ -6,8 +6,10 @@
 
 <div>
   <a href="https://beacons.ai/camillaherreraa"></a>
-  ### 📊 Linguagens mais usadas
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?camillaherreraa&layout=compact&langs_count=6&theme=radical)
+  ### 📚 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillaherrerraa&layout=compact&langs_count=6&theme=radical)
+
 </div>
 
 <div style="display: inline_block"><br>
