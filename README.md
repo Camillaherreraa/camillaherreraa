@@ -1,9 +1,9 @@
 ## Olá! Me chamo Camilla Herrera 
 
 
-🔭 Atualmente faço projetos com Front-End
-- 🌱 Estudando Phyton
-- - 😄 Pronouns: ela/dela
+🔭 Atualmente faço projetos com desenvolvimento WEB
+🌱 Estudando CyberSegurança
+😄 Pronouns: ela/dela
 
 
 <div>  
