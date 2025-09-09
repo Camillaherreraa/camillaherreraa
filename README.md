@@ -7,7 +7,10 @@
 
 
 <div>  
-  <a href="https://beacons.ai/camillaherreraa"></a> ### 📚 Linguagens mais usadas ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillaherreraa&layout=compact&langs_count=6&theme=radical&cache_seconds=60)
+  <a href="https://beacons.ai/camillaherreraa"></a> 
+  
+  ### 📚 Linguagens mais usadas 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillaherreraa&layout=compact&langs_count=6&theme=radical&cache_seconds=60)
 </div>
 
 <div style="display: inline_block"><br>
@@ -36,6 +39,3 @@
 </div>
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8e00a25f-8188-461b-8b91-6d7c3a795458" data-share-badge-host="https://www.credly.com"></div>
-
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
