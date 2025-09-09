@@ -20,9 +20,9 @@
   <img align="center" alt="Camilla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div>
   ### BAGDES 
-   <img align="center" alt="Camilla-Python" height="60" width="60" src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
+<div>
+   <img align="center" alt="Camilla-Python" height="100" width="100" src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
 </div>
 
 <br>
