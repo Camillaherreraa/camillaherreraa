@@ -14,7 +14,7 @@
 
   ### BAGDES 
 <div>
-   <img align="center" alt="Camilla-Python" height="100" width="100" src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
+   <img align="center" alt="Camilla-Python" height="50" width="50" src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
   <img align="center" alt="Camilla-Python" height="100" width="100" src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png">
    <img align="center" alt="Camilla-Python" height="100" width="100" src="https://images.credly.com/size/340x340/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png">
    <img align="center" alt="Camilla-Python" height="100" width="100" src="https://images.credly.com/size/340x340/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png">
