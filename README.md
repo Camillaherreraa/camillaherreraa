@@ -21,8 +21,9 @@
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/80x80/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob">
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/80x80/images/26c33174-9fee-4848-88c6-471807995417/blob">
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/80x80/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png">
-</div>
-
+   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShleThduXedgLbX1cHwCKq9EQ_ydNY8xQt8mvVgmGupOKbGUtO-NtYKIH642ObPdOZ8IQ&usqp=CAU">
+  
+  
 ## 🌐 Redes Sociais
 <div> 
   <a href="https://www.instagram.com/camillaherrera_/" target="_blank">
