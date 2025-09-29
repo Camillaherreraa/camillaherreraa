@@ -10,6 +10,7 @@
   <img align="center" alt="Camilla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camilla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Camilla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Camilla-Python" height="70" width="70" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png">
 </div>
 
 ### BAGDES 
@@ -21,7 +22,7 @@
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/80x80/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob">
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/80x80/images/26c33174-9fee-4848-88c6-471807995417/blob">
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/80x80/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png">
-   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShleThduXedgLbX1cHwCKq9EQ_ydNY8xQt8mvVgmGupOKbGUtO-NtYKIH642ObPdOZ8IQ&usqp=CAU">
+   
   
   
 ## 🌐 Redes Sociais
