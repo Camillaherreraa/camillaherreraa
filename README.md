@@ -9,7 +9,6 @@
   <img align="center" alt="Camilla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Camilla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camilla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Camilla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png">
 </div>
 
@@ -20,7 +19,6 @@
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/340x340/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png">
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/340x340/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png">
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/80x80/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob">
-  <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/80x80/images/26c33174-9fee-4848-88c6-471807995417/blob">
   <img align="center" alt="Camilla-Python" height="70" width="70" src="https://images.credly.com/size/80x80/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png">
    
   
