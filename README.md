@@ -3,11 +3,9 @@
 ### Estudante de Sistema de Informação • Desenvolvedora Backend • Segurança da Informação • Redes de Computadores
 
 ## 🚀 Tecnologias que Utilizo
-<div align="center">
   <img alt="Camilla-Java" height="70" width="70" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
           
-</div>
 
 ----
 ## 🏅 Certificações
