@@ -1,19 +1,15 @@
-<div align="center">
 
 # 👩‍💻 Camilla Herrera  
 ### Estudante de Sistema de Informação • Desenvolvedora Backend • Segurança da Informação • Redes de Computadores
-</div>
-
----
 
 ## 🚀 Tecnologias que Utilizo
 <div align="center">
   <img alt="Camilla-Java" height="70" width="70" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png">
 </div>
----
 
 ## 📊 Linguagens Mais Usadas nos Meus Repositórios
 <div align="center">
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillaherrera&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
