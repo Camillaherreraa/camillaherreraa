@@ -5,8 +5,11 @@
 ## 🚀 Tecnologias que Utilizo
   <img alt="Camilla-Java" height="70" width="70" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png">
   <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+  <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img height="70" width="70" src="https://img.icons8.com/?size=100&id=1HQrvpSeuu37&format=png&color=000000" />
           
-
 ----
 ## 🏅 Certificações
 Minha trajetória inclui certificações que fortalecem minha base em **programação**, **cibersegurança**, **fundamentos de TI** e **networking**.  
