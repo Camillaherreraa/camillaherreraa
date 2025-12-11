@@ -3,8 +3,9 @@
 ### Estudante de Sistema de Informação • Desenvolvedora Backend • Segurança da Informação • Redes de Computadores
 
 ## 🚀 Tecnologias que Utilizo
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=1HQrvpSeuu37&format=png&color=000000" />
-   
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img eight="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />  
+          
+          
 ## 🏅 Certificações
 Minha trajetória inclui certificações que fortalecem minha base em **programação**, **cibersegurança**, **fundamentos de TI** e **networking**.  
 Essas conquistas representam meu compromisso com estudo contínuo e evolução profissional.
