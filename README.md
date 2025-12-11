@@ -8,13 +8,11 @@
 </div>
 
 ## 📊 Linguagens Mais Usadas nos Meus Repositórios
-<div align="center">
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillaherrera&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  
 
----
-
+----
 ## 🏅 Certificações
 Minha trajetória inclui certificações que fortalecem minha base em **programação**, **cibersegurança**, **fundamentos de TI** e **networking**.  
 Essas conquistas representam meu compromisso com estudo contínuo e evolução profissional.
@@ -26,8 +24,6 @@ Essas conquistas representam meu compromisso com estudo contínuo e evolução p
   <img height="70" width="70" src="https://images.credly.com/size/340x340/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png">
   <img height="70" width="70" src="https://images.credly.com/size/80x80/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png">
 </div>
-
----
 
 ## 🌐 Redes Sociais
 <div> 
