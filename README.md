@@ -5,12 +5,9 @@
 ## 🚀 Tecnologias que Utilizo
 <div align="center">
   <img alt="Camilla-Java" height="70" width="70" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+          
 </div>
-
-## 📊 Linguagens Mais Usadas nos Meus Repositórios
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillaherrera&layout=compact&langs_count=7&theme=dracula"/>
-  
 
 ----
 ## 🏅 Certificações
