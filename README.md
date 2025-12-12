@@ -2,22 +2,6 @@
 # 👩‍💻 Camilla Herrera  
 ### Estudante de Sistema de Informação • Desenvolvedora Backend • Segurança da Informação • Redes de Computadores
 
-## 🚀 Tecnologias que Utilizo
-   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />  
-          
-          
-## 🏅 Certificações
-Minha trajetória inclui certificações que fortalecem minha base em **programação**, **cibersegurança**, **fundamentos de TI** e **networking**.  
-Essas conquistas representam meu compromisso com estudo contínuo e evolução profissional.
-
-<div>
-  <img height="70" width="70" src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
-  <img height="70" width="70" src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png">
-  <img height="70" width="70" src="https://images.credly.com/size/340x340/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png">
-  <img height="70" width="70" src="https://images.credly.com/size/340x340/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png">
-  <img height="70" width="70" src="https://images.credly.com/size/80x80/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png">
-</div>
-
 ## 🌐 Redes Sociais
 <div> 
   <a href="https://www.instagram.com/camillaherrera_/" target="_blank">
@@ -33,4 +17,13 @@ Essas conquistas representam meu compromisso com estudo contínuo e evolução p
   </a> 
 </div>
 
+## 🚀 Tecnologias que Utilizo
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />  
+          
+
+## My stats
+<a href="https://github.com/Camillaherreraa" title="Camilla's Profile">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascbayma&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascbayma&layout=compact&langs_count=7&theme=dark"/>
+</a>
 
