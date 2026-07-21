@@ -1,6 +1,6 @@
 
 # 👩‍💻 Camilla Herrera  
-### Estudante de Sistema de Informação • Desenvolvedora Backend • Segurança da Informação • Redes de Computadores
+### Estudante de Sistema de Informação • DevSecOps • Segurança da Informação • Redes de Computadores
 
 ## 🌐 Redes Sociais
 <div> 
